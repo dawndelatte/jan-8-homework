@@ -1,0 +1,36 @@
+.header {
+	background-color: #ccc;
+	width: 500px;
+	height: 100px;
+	margin: 5px 10px 10px 5px;
+	text-align: center;
+	font-family: sans-serif;
+}
+.body {
+	position: fixed;
+	left: 20%;
+	top: 30%;
+	background-color: #ccc;
+	width: 500px;
+	height: 100px;
+	margin: 5px 10px 10px 5px;
+	text-align: center;
+	font-family: sans-serif;
+	border: solid;
+}
+.footer {
+	background-color: #ccc;
+	width: 500px;
+	height: 100px;
+	margin: 5px 10px 10px 5px;
+}
+p {
+	padding: 10px 20px 0px 20px;
+}
+.box {
+	left: 300px;
+	width: 500px;
+	height: 300px;
+	background-color: #777;
+	margin: 5px 10px 10px 5px;
+}
